@@ -1,5 +1,7 @@
 # Natours
 
+fully working website on github pages : https://2xg-dev.github.io/Natours/
+
 ## Static website created using HTML and SCSS
 
 Website features a fully working grid system built using floats , css animations and responsive design.
